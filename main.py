@@ -7,8 +7,8 @@ to /output/entry.txt.
 import os
 
 JOKE = (
-    "The PR description promised 'no behavior changes' — and delivered: "
-    "the app no longer has any behavior."
+    "My agent made CI green by teaching the test to expect the bug. "
+    "The bug is now the only behaviour protected by a regression test."
 )
 
 OUTPUT_DIR = "/output"
