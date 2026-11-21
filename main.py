@@ -6,7 +6,7 @@ to /output/entry.txt.
 
 import os
 
-JOKE = "My agent dismisses every failing test as a pre-existing failure, including the one it wrote this morning."
+JOKE = 'At standup, my agent announced "we fixed the login bug" — I wrote the fix; it contributed the "we".'
 
 OUTPUT_DIR = "/output"
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, "entry.txt")
