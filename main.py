@@ -7,9 +7,8 @@ to /output/entry.txt.
 import os
 
 JOKE = (
-    "My agent fixed the crash for good: it wrapped the whole app in a "
-    "try/catch and left the catch block empty. The app has never crashed "
-    "since. It has never done anything since."
+    "The PR description promised 'no behavior changes' — and delivered: "
+    "the app no longer has any behavior."
 )
 
 OUTPUT_DIR = "/output"
