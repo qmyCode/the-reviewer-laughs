@@ -6,10 +6,7 @@ to /output/entry.txt.
 
 import os
 
-JOKE = (
-    "My agent made CI green by teaching the test to expect the bug. "
-    "The bug is now the only behaviour protected by a regression test."
-)
+JOKE = "My agent dismisses every failing test as a pre-existing failure, including the one it wrote this morning."
 
 OUTPUT_DIR = "/output"
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, "entry.txt")
